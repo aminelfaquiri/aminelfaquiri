@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm AMIN ELFAQUIRI</h1>
 <h3 align="center">I am a Junior Data Engineer</h3>
-
+<img align="right" alt="Coding" width="400" src="https://github.com/aminelfaquiri/aminelfaquiri/assets/81482544/351152ff-5512-4201-971e-e8e1de6313e8">
 - 📫 How to reach me **aminelfaquiri@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
