@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm AMIN ELFAQUIRI</h1>
 <h3 align="center">I am a Junior Data Engineer</h3>
 
